@@ -1,14 +1,3 @@
-            #=================================================================
-            # Copyright 2025 Georgia Tech.  All rights reserved.
-            # The materials provided by the instructor in this course are for
-            # the use of the students currently enrolled in the course.
-            # Copyrighted course materials may not be further disseminated.
-            # This file must not be made publicly available anywhere.
-            # =================================================================
-            
-            # P1-2
-            # Student Name: Joey Nievera
-            # Date: 10/7/2025          
             # This program traces a contour.
             #
             # Using ecall 582, it loads 2500 8-bit pixels (as 625 words of 4 pixels each) into a
